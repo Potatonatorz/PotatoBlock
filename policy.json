@@ -1,6 +1,6 @@
 {
   "allowedSites": [
-    "us.linewizefilter.qoria.cloud",
+    "linewizefilter.qoria.cloud",
     "history.com",
     "carolina.com",
     "carolinascienceonline.com",
@@ -8,6 +8,7 @@
     "awstrack.me",
     "classlink.com",
     "qoria.cloud",
-    "hubspotlinks.com"
+    "hubspotlinks.com",
+    "fontawesome.com"
   ]
 }
