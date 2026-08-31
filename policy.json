@@ -16,7 +16,7 @@
     "docs.google.com",
     "sheets.google.com",
     "meet.google.com",
-    "slides.google.com"
+    "slides.google.com",
     "chat.google.com",
     "calendar.google.com",
     "classroom.google.com",
@@ -24,6 +24,5 @@
     "segment.com",
     "storage.googleapis.com",
     "leadconnectorhq.com"
-    "youtube.com"
   ]
 }
