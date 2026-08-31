@@ -24,12 +24,5 @@
     "segment.com",
     "storage.googleapis.com",
     "leadconnectorhq.com"
-  ],
-  
-  "allowedRequests": [
-    "youtube.com/api/stats/qoe",
-    "youtube.com/youtubei/v1/log_event",
-    "youtube.com/ptracking",
-    "googlevideo.com/generate_204"
   ]
 }
