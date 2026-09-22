@@ -1,6 +1,4 @@
-{
-  "allowedSites": [
-    "linewizefilter.qoria.cloud",
+ "linewizefilter.qoria.cloud",
     "history.com",
     "carolina.com",
     "carolinascienceonline.com",
@@ -24,6 +22,11 @@
     "segment.com",
     "storage.googleapis.com",
     "leadconnectorhq.com",
-    "bigideasmath.com"
+    "bigideasmath.com",
+    "leadconnectorhq.com",
+    "bigideasmath.com",
+    "google.com/gen_204",
+    "www.google.com",
+    "ep1.adtrafficquality.google",
   ]
 }
