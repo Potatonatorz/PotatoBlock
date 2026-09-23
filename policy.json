@@ -1,4 +1,5 @@
-[
+{
+  "allowedSites": [
 	"linewizefilter.qoria.cloud",
 	"qoria.cloud",
 	"classlink.com",
@@ -28,4 +29,5 @@
 	"leadconnectorhq.com",
 	"fontawesome.com",
 	"segment.com"
-]
+	]
+}
